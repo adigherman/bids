@@ -1,0 +1,12 @@
+Package: bids
+Type: Package
+Title: Helper for Brain Imaging Data Structure
+Version: 0.2
+Author: John Muschelli
+Maintainer: John Muschelli <muschellij2@gmail.com>
+Description: Creates folders in the Brain Imaging Data Structure ('BIDS')
+    <http://bids.neuroimaging.io/> for neuroimaging analyses.  
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
